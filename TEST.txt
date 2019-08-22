@@ -1,7 +1,11 @@
 hi there
 
 
+<<<<<<< HEAD
 remote repo
 
 
 local repo
+=======
+remote repo  new commit
+>>>>>>> 414ecda08f9a1c2050fc7dd26cadc8829fb7a574
